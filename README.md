@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://TimX-JS.io/rsschool-cv/cv
+https://timx-js.github.io/rsschool-cv/cv.md
