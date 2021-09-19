@@ -1,0 +1,17 @@
+.zag {
+  color: darkslateblue;
+  text-align: center;
+  margin: 20px;
+}
+.contacts {
+  color: purple;
+  margin: 20px;
+}
+.text {
+  margin: 20px;
+  padding: 20px;
+}
+.code {
+  margin: 20px;
+  background-color: silver;
+}
