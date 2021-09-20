@@ -1,0 +1,44 @@
+.contacts {
+  color: purple;
+}
+.code {
+  margin: 20px;
+  background-color: silver;
+}
+.container {
+  padding: 20px;
+  min-height: 900px;
+  background-image: url("background.jpg");
+  background-size: 1600px 900px;
+  background-repeat: no-repeat;
+}
+.zag-container {
+  background-color: white;
+  color: darkslateblue;
+  text-align: center;
+  margin: 5px;
+  padding: 5px;
+  max-width: 360px;
+  position: relative;
+  margin: 0 auto;
+}
+.text {
+  background-color: white;
+  margin: 5px;
+  padding: 5px;
+}
+.avatar {
+  width: 300px;
+  height: 300px;
+  background-color: white;
+  margin: 20px;
+  padding: 10px;
+}
+.c1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
